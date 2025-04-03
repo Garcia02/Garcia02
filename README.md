@@ -1,4 +1,3 @@
-Claro, vou adicionar o link do Instagram ao seu perfil. Aqui está a versão atualizada, incluindo o link do Instagram na seção de conexões:
 # 👨‍💻 Jeferson Garcia
 
 **`Desenvolvedor em Formação | Análise e Desenvolvimento de Sistemas | Experiência em Logística`**
@@ -78,7 +77,3 @@ Estou sempre aberto a novas oportunidades de aprendizado, colaborações e discu
 ---
 
 > "A experiência em logística me ensinou a otimizar processos. Agora, estou otimizando linhas de código para criar um futuro tecnológico." - Jeferson Garcia
-
-Nesta versão atualizada, adicionei o link do Instagram à seção "Vamos Conectar!" junto com os links do LinkedIn e GitHub. Agora, as pessoas têm mais uma opção para se conectar com você e acompanhar sua jornada profissional.
-O badge do Instagram foi adicionado no mesmo estilo dos outros, mantendo a consistência visual do seu perfil. Isso proporciona aos visitantes do seu perfil GitHub uma visão completa de suas redes profissionais e sociais.
-Se você quiser fazer mais alguma alteração ou tiver outras ideias para incluir, fique à vontade para me informar!
