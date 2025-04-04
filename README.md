@@ -41,6 +41,7 @@ Estou comprometido em me tornar um desenvolvedor versátil e inovador, focando e
 <img align="left" alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
 <img align="left" alt="Excel" title="Excel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+<span align="left" alt="Regex" title="Regex" style="display:inline-block; width:30px; height:30px; line-height:30px; text-align:center; font-weight:bold; font-size:20px; color:#4CAF50; padding-right:10px;">R*</span>
 
 <br/>
 <br/>
