@@ -1,6 +1,6 @@
 # 👨‍💻 Jeferson Garcia
 
-**`Desenvolvedor em Formação | Analista e Desenvolvedor de Sistemas | Especialista em Logística e Automação`**
+**`Desenvolvedor em Formação | Analista e Desenvolvedor de Sistemas | analista de custos de transporte`**
 
 ## 🚀 Minha Jornada de Transformação
 
