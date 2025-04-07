@@ -1,6 +1,6 @@
 # 👨‍💻 Jeferson Garcia
 
-**`Desenvolvedor em Formação | Analista e Desenvolvedor de Sistemas | analista de custos de transporte`**
+**`Desenvolvedor em Formação | Analista e Desenvolvedor de Sistemas | Analista de Custos de Transporte`**
 
 ## 🚀 Minha Jornada de Transformação
 
